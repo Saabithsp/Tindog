@@ -53,4 +53,4 @@ We welcome contributions to enhance Tindog-Web-Application_FrontEnd! To contribu
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## 📬 Contact
-Questions or inquiries? Reach us at [support@tindog.com](mailto:support@tindog.com). We’re here to help!
+Questions or inquiries? Reach me at [saabiths@gmail.com](mailto:saabiths@gmail.com). I'm here to help!
