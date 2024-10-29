@@ -1,7 +1,3 @@
-Here's a polished version with emojis to enhance readability and add a professional flair:
-
----
-
 # 🐶 Tindog Web Application Frontend
 
 ## 🌐 Overview
